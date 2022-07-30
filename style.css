@@ -1,0 +1,120 @@
+.container{
+    margin:50px 75px;
+}
+.navbar-container{
+    display:flex;
+    flex-direction: row;
+}
+
+p{
+    font-family: poppins;
+}
+
+h1.hero-heading{
+    position: absolute;
+    font-size: 350%;
+    font-weight: bolder;
+    font-family: orbitron;
+    margin-left:40%;
+    margin-top:17%
+}
+ul{
+    margin-left:70px;
+}
+li.list-item{
+    margin-left: 50px;
+    font-size: 150%;
+    font-family:orbitron;
+    display: inline-block;
+    overflow: auto;
+}
+li.list-item:hover{
+   text-decoration: underline;
+   font-weight: 600;
+
+}
+
+.search-icon{
+    width:20;
+    height:0px;
+    margin-left:155px;
+    margin-top:13px;
+}
+
+.nav-button{
+    margin-left:190px;  
+    border-radius: 12px;
+    padding:5px 35px 3px 35px;
+    font-family:poppins;
+    font-size: large;
+    background-color:white;
+    font-weight:300;
+}
+
+.star{
+    position:absolute;
+    margin-left: 82%;
+    margin-top: 10%;
+}
+.globe{
+    position:absolute;
+    margin-left:48%;
+    margin-top: 5%;
+}
+
+.square{
+    position: absolute;
+    margin-top:370px;
+    z-index:-1;
+    margin-left:155px;
+}
+
+[alt="person-hero-iamge"]{
+    position:absolute;
+    margin-top:110px;
+    width: 500px;
+}
+
+.hero-description{
+    position: absolute;
+    margin-left:46%;
+    margin-top: 24%
+}
+
+.button-email{
+    margin-left: 60%;
+    border-radius: 12px;
+    padding:5px 35px 3px 35px;
+    font-family:orbitron;
+    font-size: large;
+    background-color:white;
+    font-weight:300;
+    margin-top:40%;
+}
+.button-join{
+    border-radius: 12px;
+    padding:5px 35px 3px 35px;
+    font-family:orbitron;
+    font-size: large;
+    color:white;
+    background-color:black;
+    font-weight:300;
+}
+
+.contact-heading{
+    margin-left: 70%;
+    margin-top:  10%;
+    font-family:orbitron;
+    font-weight:300;
+    font-size:large;
+}
+
+.icons{
+    margin-left:68%;
+}
+
+.star1{
+    position:absolute;
+    margin-left:45%;
+    margin-top:-10%;
+}
